@@ -1,0 +1,40 @@
+
+/* -- General-- */
+    body {
+        background: url(../img/old_mathematics.png);
+        background-position: 0% 0%;
+        background-repeat: repeat;
+    }
+    #wrapper.container {
+        box-shadow: 0 0 5px 1px rgba(0,0,0,.16) !important;
+        background-color:white;
+    }
+
+    h1,h2,h3,h4,h5,h6{
+        font-family: Lato;
+    }
+    a {
+        color: #00aeff;
+    }
+
+/* --Top Logo-- */
+    header{padding:40px 0 0;}
+    header a.title {
+        font-family: "Luckiest Guy";
+        line-height: 60px;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 60px;
+        padding:40px 0 20px;
+    }
+    header a.title:hover {
+        text-decoration:none;
+        opacity:0.9;
+    }
+
+
+/*-- Content-- */
+#content{padding-bottom:4em;}
+
+/* -- Footer -- */
+footer{color: #808080;margin:20px 0;}
